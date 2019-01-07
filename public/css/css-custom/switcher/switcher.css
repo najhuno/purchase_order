@@ -1,0 +1,48 @@
+.cb-enable span { 
+	line-height: 35px; 
+	display: block; 
+	font-weight: bold; 
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+    box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.09) inset;
+	background-position: left -90px; padding: 0 10px;
+	background-color:#e7e8e8;
+	
+	}
+.cb-disable span { 
+	line-height: 35px; 
+	display: block; 
+	font-weight: bold; 
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+    box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.09) inset;
+	background-position: right -180px;padding: 0 10px;
+	background-color:#e7e8e8;
+	}
+
+
+.cb-disable.selected span {
+	line-height: 35px; 
+	display: block; 
+	font-weight: bold; 
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+    box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.09) inset;
+	background-position: right -180px;padding: 0 10px;
+	background-color:#999999;
+	color: #fff; 
+}
+
+.cb-enable.selected span {
+	line-height: 35px; 
+	display: block; 
+	font-weight: bold; 
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+    box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.09) inset;
+	background-position: left -90px; padding: 0 10px;
+	background-color:#fb3737;
+	color: #fff;
+}
+.switch label { cursor: pointer; }
+.switch input { display: none; }

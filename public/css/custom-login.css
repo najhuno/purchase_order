@@ -1,0 +1,218 @@
+@media only screen and (min-width: 300px) 
+{	  
+	.form-box .body,
+	.form-box .footer {
+	  padding: 10px 20px;
+	   background: none; 
+	  color: #444;
+	}
+	.bg{
+		background: url('http://localhost/umrohnes/erp/themes/backend/img-login/full.png');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: top right; 
+		background-size: 270px 200px;
+	}	
+
+	.header{
+		background: white !important;
+	}
+	h2{
+		margin-top: -10px
+	}
+	.btn-custom{
+		border-radius: 20px;
+		width: 40%
+	}
+	#form_lebet{
+		margin-left: -20px
+	}
+	label{
+		font-size: 18px;
+		font-weight: 400
+	}
+	.form-box{
+		margin-top: 30px
+	}
+	span{
+		font-weight: 300
+	}
+	.margin{
+		margin-left: 0px
+	}
+	.reg{
+		font-weight: 500;
+		text-decoration: underline;
+	}
+	
+	.lf{
+		width: auto; 
+		height: 250px;
+		position: absolute;
+		z-index: -1;
+		float: right;
+		display: none;
+	}
+	.logos{
+		width: 80px; 
+		height: auto; 
+		margin-bottom: 50px
+	}
+}
+@media only screen and (min-width: 768px) 
+{
+	.bg{
+		background: url('http://localhost/umrohnes/erp/themes/backend/img-login/full.png');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: right; 
+		background-size: 810px 640px;
+	}	
+
+	.header{
+		background: white !important;
+	}
+	h2{
+		margin-top: -10px
+	}
+	.btn-custom{
+		border-radius: 20px;
+		width: 40%
+	}
+	#form_lebet{
+		margin-left: -20px
+	}
+	label{
+		font-size: 18px;
+		font-weight: 400
+	}
+	.form-box{
+		margin-top: 30px
+	}
+	span{
+		font-weight: 300
+	}
+	.margin{
+		margin-left: 0px
+	}
+	.reg{
+		font-weight: 500;
+		text-decoration: underline;
+	}
+	
+	.lf{
+		width: auto; 
+		height: 250px;
+		display: block;
+	}
+	.logos{
+		width: 80px; 
+		height: auto; 
+		margin-bottom: 50px
+	}
+}
+
+@media only screen and (min-width: 1320px) 
+{
+	.bg{
+		background: url('http://localhost/umrohnes/erp/themes/backend/img-login/full.png');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: right; 
+		background-size: 810px 660px;
+	}	
+
+	.header{
+		background: white !important;
+	}
+	h2{
+		margin-top: -10px
+	}
+	.btn-custom{
+		border-radius: 20px;
+		width: 40%
+	}
+	#form_lebet{
+		margin-left: -20px
+	}
+	label{
+		font-size: 18px;
+		font-weight: 400
+	}
+	.form-box{
+		margin-top: 30px
+	}
+	span{
+		font-weight: 300
+	}
+	.margin{
+		margin-left: 0px
+	}
+	.reg{
+		font-weight: 500;
+		text-decoration: underline;
+	}
+	
+	.lf{
+		width: auto; 
+		height: 250px;
+	}
+	.logos{
+		width: 50%; 
+		height: auto; 
+		margin-bottom: 50px
+	}
+}
+@media only screen and (min-width: 1920px) 
+{
+	.bg{
+		background: url('http://localhost/umrohnes/erp/themes/backend/img-login/full.png');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: right; 
+		background-size: 1080px 960px;
+	}	
+
+	.header{
+		background: white !important;
+	}
+	h2{
+		margin-top: -10px
+	}
+	.btn-custom{
+		border-radius: 20px;
+		width: 40%
+	}
+	#form_lebet{
+		margin-left: -20px
+	}
+	label{
+		font-size: 18px;
+		font-weight: 400
+	}
+	.form-box{
+		margin-top: 30px
+	}
+	span{
+		font-weight: 300
+	}
+	.margin{
+		margin-left: 0px
+	}
+	.reg{
+		font-weight: 500;
+		text-decoration: underline;
+	}
+	
+	.lf{
+		width: auto; 
+		height: 450px;
+	}
+	
+	.logos{
+		width: 100px; 
+		height: auto; 
+		margin-top: 150px
+		margin-bottom: 50px
+	}
+}
