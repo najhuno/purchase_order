@@ -19,7 +19,8 @@
 
 			<div>
 
-                <h1 class="logo-name">PO</h1>
+                <h2><b>Purchase Order</b></h2>
+				<br>
 
             </div>
 			<p>Login in. To see it in action.</p>
